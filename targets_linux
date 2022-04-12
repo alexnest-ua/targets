@@ -54,6 +54,4 @@ https://213.59.254.7:443 http://213.59.253.7:80 https://213.59.253.7:443 --http-
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/biggeek_re-store --http-methods GET STRESS
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/iptv_unblock --http-methods GET STRESS --debug --proxies https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/proxies/proxy.txt
-
 https://www.a-3.ru/pay_gaz --http-methods GET STRESS
