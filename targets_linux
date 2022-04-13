@@ -34,8 +34,6 @@ http://178.248.238.208:80 http://193.232.108.86:80 https://193.107.237.86:443 ht
 
 #https://bank-online-kabinet.ru/wp-json/ http://87.236.16.13:80 http://87.236.16.13:443 https://87.236.16.13:443 tcp://87.236.16.13:21 tcp://87.236.16.13:22 tcp://87.236.16.13:80 tcp://87.236.16.13:443 --http-methods GET STRESS
 
-#https://anti-sushi.ru https://anti-sushi.ru/catalog/kombo/ https://anti-sushi.ru/catalog/special-offers/ 79.137.239.90:80 79.137.239.90:443 https://79.137.239.90:443 tcp://79.137.239.90:80 tcp://79.137.239.90:443 --http-methods GET STRESS
-
 https://moe-online.ru/news --http-methods GET STRESS
 
 #http://nalog.gov.by 195.50.4.54:80 195.50.4.54:443 tcp://195.50.4.54:80 tcp://195.50.4.54:443 --http-methods STRESS GET
