@@ -6,7 +6,7 @@
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/sber_l4_tcp
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/sber_l4_udp
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/sber_l4_udp
 
 #https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru https://edo-gismt.crpt.ru/ https://suzgrid.crpt.ru/login http://api.mdlp.crpt.ru http://kb.crpt.ru http://suz2.crpt.ru http://nrz.api.sb.mdlp.crpt.ru http://api.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru https://честныйзнак.рф/potrebitelyam/ https://апи.национальный-каталог.рф/ https://xn--80aqu.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai/v3/feed-product?apikey=6A9769C235F432 https://suzgrid.crpt.ru:16443/api/v2/integration/connection https://nrz.api.mdlp.crpt.ru tcp://91.230.251.101:443 --http-methods GET STRESS
 
