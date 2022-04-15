@@ -2,9 +2,9 @@
 
 #UNCOMMENT:
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/platon/platon_l7 -t 5000 --rpc 2000 --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/platon/platon_l7 --http-methods GET STRESS
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/platon/platon_l4_tcp -t 5000 --rpc 2000
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/platon/platon_l4_tcp
 
 #COMMENT:
 
