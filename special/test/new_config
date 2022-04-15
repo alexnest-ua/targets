@@ -6,6 +6,5 @@ https://cdek.by/ru/ STRESS
 http://178.248.238.208:80 CPS
 http://193.232.108.86:80 EVEN
 https://193.107.237.86:443 BYPASS rpc=10000
-https://185.65.22.9:443 TCP
 tcp://185.65.22.9:443 GET rpc=10
 tcp://185.65.22.9:443
