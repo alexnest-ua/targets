@@ -1,8 +1,8 @@
 https://www.cdek.ru POST
 https://cdekid.cdek.ru HEAD rpc=500
 https://tender-buy.cdek.ru/Tenders GET rpc=100
-https://cdek.kz/ru/ GET
-https://cdek.by/ru/ STRESS
+https://cdek.kz/ru/
+https://cdek.by/ru/
 http://178.248.238.208:80 CPS
 http://193.232.108.86:80 EVEN
 https://193.107.237.86:443 BYPASS rpc=10000
