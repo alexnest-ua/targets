@@ -1,0 +1,11 @@
+https://3dsec.sberbank.kz/payment/rest/register.do
+https://3dsec.sberbank.kz/payment/rest/registerPreAuth.do
+https://3dsec.sberbank.kz/payment/rest/deposit.do
+https://3dsec.sberbank.kz/payment/rest/reverse.do
+https://3dsec.sberbank.kz/payment/rest/refund.do
+https://3dsec.sberbank.kz/payment/rest/getOrderStatusExtended.do
+https://3dsec.sberbank.kz/payment/rest/verifyEnrollment.do
+https://3dsec.sberbank.kz/payment/applepay/payment.do
+https://3dsec.sberbank.kz/payment/recurrentPayment.do
+https://3dsec.sberbank.kz/payment/samsung/payment.do
+https://3dsec.sberbank.kz/payment/samsungWeb/payment.do
