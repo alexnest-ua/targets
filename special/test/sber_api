@@ -9,3 +9,9 @@ https://3dsec.sberbank.kz/payment/applepay/payment.do
 https://3dsec.sberbank.kz/payment/recurrentPayment.do
 https://3dsec.sberbank.kz/payment/samsung/payment.do
 https://3dsec.sberbank.kz/payment/samsungWeb/payment.do
+https://3dsec.sberbank.kz/payment/google/payment.do
+https://3dsec.sberbank.kz/payment/webservices/merchant-ws?wsdl
+http://engine.paymentgate.ru/webservices/merchant
+http://schemas.xmlsoap.org/soap/envelope/
+http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd
+http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-%20wssecurity-utility-1.0.xsd
