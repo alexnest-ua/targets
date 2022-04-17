@@ -2,19 +2,23 @@
 
 #UNCOMMENT:
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/IPTV/iptv_l7_url --http-methods GET POST
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/IPTV/iptv_l7_url --http-methods GET STRESS
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/IPTV/iptv_l7_http --http-methods GET POST
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/IPTV/iptv_l7_http --http-methods GET STRESS
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/IPTV/iptv_l4_tcp
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/amediateka --http-methods GET POST
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/amediateka --http-methods GET STRESS
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/platon/platon_l7 --http-methods GET STRESS
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/platon/platon_l4_tcp
 
 #COMMENT:
+
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/vetfr/vetrf_l7 --http-methods GET POST
+
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/vetfr/vetrf_l4_tcp
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/sber_url --http-methods GET STRESS
 
