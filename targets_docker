@@ -14,11 +14,11 @@
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/platon/platon_l4_tcp
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/vetfr/vetrf_l7 --http-methods GET POST
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/vetfr/vetrf_l7 --http-methods APACHE POST
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/vetfr/vetrf_l4_tcp
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/vetfr/vetrf_api --http-methods GET POST
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/vetfr/vetrf_api --http-methods APACHE POST
 
 #COMMENT:
 
