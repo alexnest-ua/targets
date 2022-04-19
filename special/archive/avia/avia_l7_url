@@ -8,6 +8,11 @@ https://search.aviasales.ru
 http://7.aviasales.ru/
 https://wwb1a.beta.aviasales.ru
 https://freeipa.beta.aviasales.ru
+https://suggest.aviasales.ru/v2/nearest_places.json?locale=ru
+https://static.aviasales.com/helios-assets/manifest_pwa_ru.json
+https://content-admin.aviasales.ru/api/widgets
+https://auth.avs.io/api/v2/jwt?uid=rBMuUWJcU%2FGK7AAgIWq5Ag%3D%3D?redirect_uri=https%3A%2F%2Fwww.aviasales.ru%2F
+https://st.sp.aviasales.ru/19.18.16/sp.js
 https://nordwindairlines.ru/ru
 https://cas.nordwindairlines.ru/nwa/index.nwa?ResX=1180?ResY=932
 http://appletest.nordwindairlines.ru/
