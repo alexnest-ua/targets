@@ -6,6 +6,8 @@
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/1c/1c_l4_tcp
 
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/1c/1с_additional --http-methods GET STRESS
+
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/ofd/ofd_l7_url --http-methods GET POST
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/ofd/ofd_l7_http --http-methods GET POST
