@@ -5,7 +5,7 @@ https://reputils.1c.ru
 http://regservice.1c.ru/regservice/regservice.asmx?WSDL
 http://regservice.1c.ru/regservice/regservice.asmx
 https://invitations.1c-edo.keydisk.ru/
-https://torg.1c.ru/equipment/onlayn-kassy/?utm_source=its&utm_medium=tmenu
+https://torg.1c.ru/equipment/onlayn-kassy/?utm_source=its?utm_medium=tmenu
 https://online.1c.ru/catalog/products/
 https://its.1c.ru/
 https://v8.1c.ru/
@@ -19,7 +19,7 @@ https://login.1c.ru/login?service=https%3A%2F%2Freleases.1c.ru%2Fpublic%2Fsecuri
 https://its.1c.ru/db/files/1CITS/EXE/cacert/cacert.zip
 https://forum.mista.ru
 https://forum.mista.ru/?forum=1c
-https://forum.mista.ru/topic.php?id=809279&page=1
+https://forum.mista.ru/topic.php?id=809279?page=1
 https://forum.infostart.ru/forum86/topic280433/?PAGEN_1=2
 https://kb.mista.ru/article.php?id=806
 http://catalog.mista.ru
@@ -30,14 +30,14 @@ http://www.gilev.ru
 https://expert.chistov.pro/
 https://solutions.1c.ru/
 https://releases.1c.ru/total
-https://1cfresh.com/a/openid/e1cib/oid2op?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.return_to=https%3A%2F%2Flogin.1c.ru%2Flogin%3Fclient_name%3DFreshOpenIdClient&openid.realm=https%3A%2F%2Flogin.1c.ru%2Flogin%3Fclient_name%3DFreshOpenIdClient&openid.mode=checkid_setup&openid.ns.1cfresh=http%3A%2F%2F1cfresh.com%2Fext%2F1.0&openid.1cfresh.required=user_id&openid.ns.ext1=http%3A%2F%2Fopenid.net%2Fsrv%2Fax%2F1.0&openid.ext1.mode=fetch_request&openid.ext1.type.email=http%3A%2F%2Faxschema.org%2Fcontact%2Femail&openid.ext1.required=email
+https://1cfresh.com/a/openid/e1cib/oid2op?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0?openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select?openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select?openid.return_to=https%3A%2F%2Flogin.1c.ru%2Flogin%3Fclient_name%3DFreshOpenIdClient?openid.realm=https%3A%2F%2Flogin.1c.ru%2Flogin%3Fclient_name%3DFreshOpenIdClient?openid.mode=checkid_setup?openid.ns.1cfresh=http%3A%2F%2F1cfresh.com%2Fext%2F1.0?openid.1cfresh.required=user_id?openid.ns.ext1=http%3A%2F%2Fopenid.net%2Fsrv%2Fax%2F1.0?openid.ext1.mode=fetch_request?openid.ext1.type.email=http%3A%2F%2Faxschema.org%2Fcontact%2Femail?openid.ext1.required=email
 https://login.1c.ru/login?service=https%3A%2F%2Freleases.1c.ru%2Fpublic%2Fsecurity_check
 https://job.1c.ru/
 https://07b.1c.ru/login/?backUrl=/
 https://login.1c.ru/login?service=https%3A%2F%2Fpartners.v8.1c.ru%2Fpublic%2Fsecurity_check%3Bjsessionid%3DE5F2CED5EE7E7A357C519A2DCBF46C05
 https://files3-gpt-msk.1c.ru/login
 https://consulting.1c.ru/
-https://releases.1c.ru/patches/total?nick=LED19&ver=1.9.4.31
+https://releases.1c.ru/patches/total?nick=LED19?ver=1.9.4.31
 https://1cfresh.com/
 http://partweb.1c.ru/PartnerSupport/PartnerSupportEntry.aspx
 https://buh.ru/
@@ -82,7 +82,7 @@ https://academy.infotecs.ru
 https://kontur.ru
 https://auth.kontur.ru/
 https://auth.kontur.ru/login.aspx
-https://auth.kontur.ru/login.aspx?tabs=1%2c1%2c0%2c0&customize=expert&back=https%3a%2f%2fexpert.kontur.ru%2f
+https://auth.kontur.ru/login.aspx?tabs=1%2c1%2c0%2c0?customize=expert?back=https%3a%2f%2fexpert.kontur.ru%2f
 https://ofd.kontur.ru
 https://www.kontur-extern.ru/
 https://e-kontur.ru/
