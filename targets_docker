@@ -1,8 +1,8 @@
 #Рядки, що починаються на # - не беруться в атаку!
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/tender/tender_l7_url
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/tender/tender_l7_url
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/tender/tender_l4_tcp
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/tender/tender_l4_tcp
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/1c/1c_l7_url --http-methods GET STRESS
 
