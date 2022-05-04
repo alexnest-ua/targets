@@ -1,6 +1,6 @@
 #Рядки, що починаються на # - не беруться в атаку!
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/egais
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/egais
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/IPTV/iptv_l7_url --http-methods GET STRESS
 
