@@ -85,11 +85,11 @@ https://www.fabrikant.ru/services
 https://www.rts-tender.ru/poisk
 https://www.rosatom.rts-tender.ru
 https://api.rts-tender.ru/
-https://app.rts-tender.ru/auth/sso/login/participant?ReturnUrl=https%3a%2f%2fapp.rts-tender.ru%2fsupplier%2flk%2f?sso=1?code=-5
-https://223.rts-tender.ru/supplier/sso/Login.aspx?ReturnUrl=%2fsupplier%2fsso%2f?sso=1?code=-5
+https://app.rts-tender.ru/auth/sso/login/participant?ReturnUrl=https%3a%2f%2fapp.rts-tender.ru%2fsupplier%2flk%2f&sso=1&code=-5
+https://223.rts-tender.ru/supplier/sso/Login.aspx?ReturnUrl=%2fsupplier%2fsso%2f&sso=1&code=-5
 https://it2-auth.rts-tender.ru
 https://help.rts-tender.ru/articles/list?id=469
-https://market-lk.rts-tender.ru/api/common/v1/sso/login/participantCustomer?sso=1?code=-5
+https://market-lk.rts-tender.ru/api/common/v1/sso/login/participantCustomer?sso=1&code=-5
 https://fb.rts-tender.ru/info/check-fair/1
 http://forcustomer44.garant.ru/SESSION/PILOT/main.htm
 https://sberbank-ast.ru/
