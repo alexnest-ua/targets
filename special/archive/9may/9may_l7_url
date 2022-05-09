@@ -29,7 +29,7 @@ http://ns1.tsargrad.tv/
 http://ns2.tsargrad.tv/
 https://mirtesen.tsargrad.tv
 https://cloud.tsargrad.tv/nextcloud/index.php/login
-https://mail.tsargrad.tv/owa/auth/logon.aspx?replaceCurrent=1?url=https%3a%2f%2fmail.tsargrad.tv%2fowa%2f
+https://mail.tsargrad.tv/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.tsargrad.tv%2fowa%2f
 https://moscow.rtrs.ru/tv/connect/
 https://moscow.rtrs.ru/
 https://tvzvezda.ru/schedule/
@@ -41,6 +41,7 @@ https://9may.mail.ru/
 https://ptoday.ru/blog/pozdravlyat-s-dnem-pobedy-krasivymi-pozdravleniyami-budut-rossiyane-9-maya-2022-goda/
 https://smotrim.ru/channels
 https://api.smotrim.ru/
+https://rutube.ru/feeds/news/
 https://www.1tv.ru/shows/den-pobedy
 https://tlxmob.1tv.ru/
 https://kino.1tv.ru/
@@ -128,8 +129,8 @@ https://rocket.ivi.ru/event/
 https://g.ivi.ru/track
 https://api.ivi.ru/mobileapi/billing/v2/certificate/activate
 https://api.ivi.ru/pivi/pokeball.PlusService/OffersList
-https://api2.ivi.ru/pull/notifications/?app_version=870?session=4545451234234234_76767624132-543537880Ezwwe-2343242352352352?type=44
-https://api2.ivi.ru/pull/overlay/?app_version=870?session=563421131?user_ab_bucket=553123
+https://api2.ivi.ru/pull/notifications/?app_version=870&session=4545451234234234_76767624132-543537880Ezwwe-2343242352352352&type=44
+https://api2.ivi.ru/pull/overlay/?app_version=870&session=563421131&user_ab_bucket=553123
 https://www.vsemayki.ru/catalog/I_am_Russian
 https://keltr.ru/futbolki/z-17869/
 https://fabricafutbolok.ru/products/z-futbolka/
