@@ -1,12 +1,22 @@
 #Рядки, що починаються на # - не беруться в атаку!
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_url --http-methods GET POST
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_1
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l4_tcp
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_2
+
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_3
+
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l4_1
+
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l4_2
+
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l4_3
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/shop/shop_l7_url --http-methods GET STRESS
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/shop/shop_l4_tcp
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/shop/shop_l4_1
+
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/shop/shop_l4_2
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/egais
 
@@ -20,9 +30,13 @@
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/delivery/delivery_l4_tcp
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/tender/tender_l7_url
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/tender/tender_l7_1
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/tender/tender_l4_tcp
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/tender/tender_l7_2
+
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/tender/tender_l4_1
+
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/tender/tender_l4_2
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/1c/1c_l7_url --http-methods GET STRESS
 
