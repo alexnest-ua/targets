@@ -4,17 +4,17 @@
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l7_url --http-methods GET STRESS
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l4_1
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l4_1
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l4_2
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l4_2
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l4_3
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l4_3
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_1
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_1
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_2
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_2
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_3
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_3
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l4_1
 
