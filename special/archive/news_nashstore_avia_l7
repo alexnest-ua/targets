@@ -6,6 +6,12 @@ https://nashstore.ru/# BYPASS
 https://store.nashstore.ru/profile/sign_in
 https://store.nashstore.ru/profile/sign_in CFB
 https://store.nashstore.ru/profile/sign_in BYPASS
+https://store.nashstore.ru/api/v1/profile/signup POST
+https://store.nashstore.ru/api/v1/profile/signin POST
+https://store.nashstore.ru/api/v1/profile/self GET
+https://store.nashstore.ru/api/v1/profile/self BYPASS
+https://store.nashstore.ru/api/v1/profile/self CFB
+https://store.nashstore.ru/api/v1/console/dicts GET
 https://www.rossiya-airlines.com/
 https://www.alrosa.aero/
 https://angara.aero/
