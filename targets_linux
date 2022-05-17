@@ -1,5 +1,7 @@
 #Рядки, що починаються на # - не беруться в атаку!
 
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/news_nashstore_avia_l7 --http-methods GET STRESS
+
 #--itarmy
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/ocsp_l7_url --http-methods GET POST
