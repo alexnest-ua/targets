@@ -1,0 +1,18 @@
+https://cdnv.nashstore.ru/ RGET
+https://cdnv.nashstore.ru/ TREX
+https://cdnv.nashstore.ru/ RHEAD
+https://cdnv.nashstore.ru/ CFB
+https://cdnv.nashstore.ru/ BYPASS
+https://nashstore.ru/# CFB
+https://nashstore.ru/# BYPASS
+https://nashstore.ru/# TREX
+https://nashstore.ru/# RHEAD
+https://store.nashstore.ru/profile/sign_in
+https://store.nashstore.ru/profile/sign_in CFB
+https://store.nashstore.ru/profile/sign_in BYPASS
+https://store.nashstore.ru/api/v1/profile/signup POST
+https://store.nashstore.ru/api/v1/profile/signin POST
+https://store.nashstore.ru/api/v1/profile/self GET
+https://store.nashstore.ru/api/v1/profile/self BYPASS
+https://store.nashstore.ru/api/v1/profile/self CFB
+https://store.nashstore.ru/api/v1/console/dicts GET
