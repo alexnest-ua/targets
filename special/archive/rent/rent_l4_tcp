@@ -305,11 +305,11 @@ tcp://89.248.195.196:8443
 tcp://136.144.30.138:22
 tcp://136.144.30.138:80
 tcp://136.144.30.138:443
-tcp://http://api.russianrealty.ru:22
-tcp://http://api.russianrealty.ru:80
-tcp://http://fs.russianrealty.ru:22
-tcp://http://fs.russianrealty.ru:80
-tcp://http://fs.russianrealty.ru:443
+tcp://136.144.30.135:22
+tcp://136.144.30.135:80
+tcp://185.15.208.43:22
+tcp://185.15.208.43:80
+tcp://185.15.208.43:443
 tcp://94.85.7.2:443
 tcp://94.85.7.2:80
 tcp://104.17.109.12:80
