@@ -1,10 +1,10 @@
 #Рядки, що починаються на # - не беруться в атаку!
 
-#-c https://github.com/alexnest-ua/targets/blob/main/special/archive/rent/rent_l7
+-c https://github.com/alexnest-ua/targets/blob/main/special/archive/rent/rent_l7
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/rent/rent_l4_tcp_1
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/rent/rent_l4_tcp_1
 
-#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/rent/rent_l4_tcp_2
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/rent/rent_l4_tcp_2
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/news_nashstore_avia_l7 --http-methods GET STRESS
 
