@@ -1,10 +1,18 @@
 #Рядки, що починаються на # - не беруться в атаку!
 
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/banks/banks_l7
+
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/banks/banks_l4_tcp_1
+
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/banks/banks_l4_tcp_2
+
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/banks/banks_l4_tcp_3
+
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/rent/rent_l7
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/rent/rent_l4_tcp_1
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/rent/rent_l4_tcp_1
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/rent/rent_l4_tcp_2
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/rent/rent_l4_tcp_2
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/news_nashstore_avia_l7 --http-methods GET STRESS
 
@@ -20,9 +28,9 @@
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l4_3
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_1
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_1
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_2
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_2
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_3
 
@@ -32,7 +40,7 @@
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l4_3
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/shop/shop_l7_url --http-methods GET STRESS
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/shop/shop_l7_url --http-methods GET STRESS
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/shop/shop_l4_1
 
