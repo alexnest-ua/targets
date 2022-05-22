@@ -347,6 +347,12 @@ https://altbank.com/biznesu.html
 https://koronapay.com/transfers/online/
 https://www.banki.ru/products/credits/?source=submenu_credits BYPASS
 https://www.sravni.ru/kredity/onlajn-zayavka-na-kredit/ BYPASS
+https://www.banki.ru/products/deposits/?source=main_menu_deposits
+https://www.banki.ru/products/deposits/?source=main_menu_deposits BYPASS
+https://www.banki.ru/credit-master/api/step/get/phonenumber/
+https://www.banki.ru/ng/api/v1.0/public/banners
+https://www.banki.ru/credit-master/api/step/get/phonenumber/ BYPASS
+https://www.banki.ru/ng/api/v1.0/public/banners BYPASS
 https://www.gazprombank.ru/full/loan-consumer/lite-credit
 https://www.nationalclearingcentre.ru/catalog/06.html
 https://mkb.ru/personal/credits
