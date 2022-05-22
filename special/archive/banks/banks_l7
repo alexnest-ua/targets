@@ -357,6 +357,9 @@ https://www.banki.ru/credit-master/api/step/get/purposeamountperiod/
 https://www.banki.ru/credit-master/api/step/get/purposeamountperiod/ BYPASS
 tcp://www.banki.ru:443
 tcp://www.banki.ru:80
+tcp://5.189.223.202:10799
+http://5.189.223.202:10799
+https://5.189.223.202:10799
 https://www.banki.ru/credit-master/api/step/get/phonenumber/ STRESS
 https://www.gazprombank.ru/full/loan-consumer/lite-credit
 https://www.nationalclearingcentre.ru/catalog/06.html
