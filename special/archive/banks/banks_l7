@@ -1,3 +1,149 @@
+https://www.moex.com/Search.asmx/NewsListSearch
+https://www.moex.com/
+https://namex.org/
+https://www.moex.com/api/stat/microcms/type/widget_indices_main_page/items/values RGET
+https://www.moex.com/api/stat/outlook/msnbsn/tc_jsons/2022.json RGET
+https://www.moex.com/api/v1/current-time RGET
+https://www.moex.com/ru/members.aspx RGET
+https://www.moex.com/ru/members.aspx?pge=3 RGET
+https://iss.moex.com/iss/engines/stock/markets/bonds/boards/TQOB/securities.json RGET
+https://iss.moex.com/iss/engines/futures/markets/forts/boards/RFUD/securities.json RGET
+https://passport.moex.com/login POST
+https://passport.moex.com/registration POST
+https://passport.moex.com/password/recovery POST
+https://messaging.moex.com/init POST
+https://sso2.moex.com/auth/realms/SSO/login-actions/authenticate POST
+https://cabinet.moex.com/ GET
+https://spbexchange.ru/
+https://charts.spbexchange.ru/
+https://test.pro.spbexchange.ru/
+https://ssltest.spbexchange.ru/
+https://pro.spbexchange.ru/
+https://nc.spbexchange.ru/
+https://algoschool.spbexchange.ru/
+https://indexapi.spbexchange.ru/
+https://engtest.spbexchange.ru/
+https://intensivalgoschool.spbexchange.ru/
+https://dev.spbexchange.ru/
+https://rp.spbexchange.ru/
+https://tradingbasics.spbexchange.ru/
+https://aloralgoschool.spbexchange.ru/
+https://ftp.spbexchange.ru/
+https://data.spbexchange.ru/
+https://archives.spbexchange.ru/
+https://spbindex.spbexchange.ru/
+https://issuers.spbexchange.ru/
+https://sender.spbexchange.ru/
+https://www.spbex.ru/
+https://holidays.spbexchange.ru/
+https://finbasics.spbexchange.ru/
+https://auction.spbex.ru/
+https://ftp.spbex.ru/
+https://mail.spbex.ru/
+https://new.spbex.ru/
+https://relay1.spbex.ru/
+https://asp.spbex.ru/
+https://lk-tradex.spbex.ru/
+https://securweb.spbex.ru/
+https://cre.spbex.ru/
+https://etp.spbex.ru/
+https://trd.spbex.ru/
+https://tablo.spbex.ru/
+https://torgi.spbex.ru/
+https://itrade.spbex.ru/
+https://api.spbexchange.ru/
+https://spvb.ru/
+https://uc.spvb.ru/
+https://cloud.spvb.ru/
+https://vnb.spbex.ru/
+https://mx1.spvb.ru/
+https://tradex.spbex.ru/
+https://portal.spvb.ru/
+https://www.moex.com/Search.asmx/EventListSearch
+https://owa.spvb.ru/
+https://autodiscover.spvb.ru/
+https://mail.spvb.ru/
+https://exch01.spvb.ru/
+https://a.spvb.ru/
+https://confluence.spvb.ru/
+https://mx2.spvb.ru/
+https://koshelev-bank.ru/ TREX
+https://www.promtransbank.ru/ TREX
+https://www.moskb.ru/ TREX
+https://www.vlbb.ru/ TREX
+https://www.promtransbank.ru/ TREX
+https://solidbank.ru/ TREX
+https://www.vtb.ru/ TREX
+https://msponline.mspbank.ru/rbr_wr/ TREX
+https://www.nico-bank.ru/ TREX
+https://online.vtb.ru/login TREX
+https://www.energotransbank.com/ TREX
+https://slbank.ru/ TREX
+https://ibank2.kbhmb.ru/ibank2/
+https://banksaratov.ru TREX
+https://www.sngb.ru/ TREX
+https://dbo2.kuzbank.ru/rich/auth TREX
+https://www.kuzbank.ru/ TREX
+https://portal.kuzbank.ru/auth/login TREX
+https://ib.open.ru/webbank/ TREX
+https://www.sngb.ru TREX
+https://solid.ru/business/rko/index.php TREX
+https://www.lockobank.ru/personal/kredit/
+https://www.aresbank.ru/credit/ TREX
+https://bank.solid.ru/ibank2/
+https://www.pochtabank.ru/ TREX
+https://private.akbars.ru/ TREX
+https://ib.gorbank.spb.ru/ TREX
+https://online.gorbank.spb.ru/ TREX
+https://www.gorbank.spb.ru/ TREX
+https://mail.bankd.ru TREX
+https://nsbank.ru TREX
+https://www.rostfinance.ru TREX
+https://www.zhivagobank.ru TREX
+https://www.derzhava.ru TREX
+https://www.round.ru TREX
+https://www.transstroybank.ru TREX
+https://www.bankrmp.ru TREX
+https://sber.ru/bank/ TREX
+https://brobank.ru TREX
+https://pliskov.ru/ TREX
+https://apollon-zaym.ru/ TREX
+https://microklad.ru/ TREX
+https://cabinet.platiza.ru/registration/step1 TREX
+https://vsegdazaem.ru/ TREX
+https://colibridengi.ru/ TREX
+https://cashtoyou.ru/ TREX
+https://dozarplati.com/ TREX
+https://ketfinans.ru/ TREX
+https://credeo.ru/ TREX
+https://lk.kredito24.ru/ TREX
+https://oneclickmoney.ru/ TREX
+https://glavfinans.ru/ TREX
+https://smartstart24.ru/ TREX
+https://moneykapital.ru/ TREX
+https://denga.ru/ TREX
+https://dengisrazy.ru/ TREX
+https://ooo-dvk.ru/ TREX
+https://cashmotor.ru/ TREX
+https://dobrozaim.ru/ TREX
+https://rbzaym.ru/ TREX
+https://www.lime-zaim.ru/ TREX
+https://cabinet.lime-zaim.ru/login TREX
+https://finfive.ru/
+https://www.konga.ru/ TREX
+https://cabinet.konga.ru/login TREX
+https://carmoney.ru/ TREX
+https://login.carmoney.ru/ TREX
+https://papazaim.com/
+https://xn--80anhm9e.xn--p1ai/
+https://xn--80acmlhv0b.xn--80anhm9e.xn--p1ai/login
+https://lk.kupi-ne-kopi.com/#/login TREX
+https://xn--j1ab.xn----7sbabihggcnu3aofmxr9txb.xn--p1ai/
+https://kupi-ne-kopi.com/customers/pay.php
+https://kangaria.ru/
+https://inst.papa-zaim.ru/form/auth.php
+https://ebabos.ru/
+https://zaymigo.com/ TREX
 https://credit.club/
 https://creditter.ru/
 https://pliskov.ru/
