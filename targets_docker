@@ -1,12 +1,18 @@
 #Рядки, що починаються на # - не беруться в атаку!
 
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/providers/providers_l7
+
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/providers/providers_l4_tcp
+
+
+
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/banks/banks_l7
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/banks/banks_l4_tcp_1
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/banks/banks_l4_tcp_2
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/banks/banks_l4_tcp_3
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/banks/banks_l4_tcp_3
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/rent/rent_l7
 
@@ -16,9 +22,9 @@
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/news_nashstore_avia_l7 --http-methods GET STRESS
 
-#--itarmy
+--itarmy
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/ocsp_l7_url --http-methods GET POST
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/ocsp_l7_url --http-methods GET POST
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l7_url --http-methods GET STRESS
 
