@@ -8,7 +8,7 @@
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/banks/banks_l4_tcp_1
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/banks/banks_l4_tcp_2
+#-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/banks/banks_l4_tcp_2
 
 -c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/banks/banks_l4_tcp_3
 
