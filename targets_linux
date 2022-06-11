@@ -1,6 +1,6 @@
 #Рядки, що починаються на # - не беруться в атаку!
 
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/providers/providers_l7
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/all.txt
 
 #-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/providers/providers_l4_tcp
 
