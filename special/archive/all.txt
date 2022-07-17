@@ -1,3 +1,4 @@
+https://ru.warface.com
 https://www.uehat.com/
 https://life-arts.ru/catalog
 tcp://194.54.14.131:4477
