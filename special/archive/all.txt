@@ -1,6 +1,7 @@
 https://ru.warface.com
 https://www.uehat.com/
 https://life-arts.ru/catalog
+https://mrush.mobi/background
 tcp://194.54.14.131:4477
 https://www.gtrk-vyatka.ru/v24live/
 https://agregatoreat.ru/classifier/ktru-list
